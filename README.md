@@ -50,7 +50,7 @@ Open it in Power BI Desktop
 Explore filters and visuals for insights
 
 📸 Dashboard Preview
-
+![Dashboard Preview](dashboard.png)
 
 💡 Future Improvements
 Add predictive churn model using Machine Learning
