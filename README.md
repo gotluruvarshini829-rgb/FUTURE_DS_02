@@ -10,13 +10,19 @@ Understand customer demographics and behavior
 Provide insights for business decision-making
 
 📈 Dashboard Features
+
 🔢 Total Customers: 7043
+
 ❌ Churn Customers: 1869
+
 ✅ Active Customers: 5174
+
 💰 Average Monthly Charges: 64.76
+
 📊 Churn Rate: 100% (based on selected filters)
 
 📊 Visualizations Included
+
 Customer Distribution by Churn (Donut Chart)
 Active Customers by Contract Type (Bar Chart)
 Monthly Charges vs Churn (Scatter Plot)
